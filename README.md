@@ -5,4 +5,5 @@ Check it out on Twitter! [@DogsWith_Jobs](https://twitter.com/dogswith_jobs)
 
 Made possible with the PRAW and TweePy API.
 
-![rsz_screen_shot_2022-08-30_at_52937_pm](https://user-images.githubusercontent.com/45194924/187555023-a14b6738-08be-4a84-891c-d2e0ddce150e.png)
+Example Tweet:
+![Screen Shot 2022-08-30 at 5 29 37 PM](https://user-images.githubusercontent.com/45194924/187555133-6c52279e-2205-4e68-a6e0-2ba9de54dc18.png)
