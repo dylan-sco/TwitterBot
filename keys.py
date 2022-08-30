@@ -1,4 +1,4 @@
-# API Keys for Twitter and Reddit (left blank for security reasons)
+# API keys for Twitter and Reddit (left blank for security reasons)
 
 keys = dict(
     # Twitter
